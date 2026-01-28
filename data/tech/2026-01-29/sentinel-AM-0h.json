@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-01-29T00:44:33.631Z",
+    "session": "AM",
+    "trend_summary": {
+      "TALENT_GROWTH": 4,
+      "VIRAL_GIANT": 2,
+      "TECH_ACCELERATOR": 4,
+      "CODE_LEVERAGE": 2,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 22
+    }
+  },
+  "items": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "stars": 1482,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-OCR-2",
+      "stars": 1212,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/deepseek-ai/DeepSeek-OCR-2"
+    },
+    {
+      "name": "antfu/skills",
+      "stars": 955,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/antfu/skills"
+    },
+    {
+      "name": "xianyu110/clawbot",
+      "stars": 242,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xianyu110/clawbot"
+    },
+    {
+      "name": "ecto/vcad",
+      "stars": 138,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ecto/vcad"
+    },
+    {
+      "name": "dnnyngyen/kimi-k2.5-prompts-tools",
+      "stars": 98,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dnnyngyen/kimi-k2.5-prompts-tools"
+    },
+    {
+      "name": "PrasannaKrishna0307/offline-rag-system",
+      "stars": 57,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/PrasannaKrishna0307/offline-rag-system"
+    }
+  ]
+}
