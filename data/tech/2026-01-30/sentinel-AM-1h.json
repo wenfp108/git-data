@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-01-30T01:03:48.780Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 5,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_GIANT": 4,
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_UNCATEGORIZED": 18
+    }
+  },
+  "items": [
+    {
+      "name": "antfu/skills",
+      "stars": 2083,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/antfu/skills"
+    },
+    {
+      "name": "lukilabs/beautiful-mermaid",
+      "stars": 1885,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lukilabs/beautiful-mermaid"
+    },
+    {
+      "name": "Robbyant/lingbot-world",
+      "stars": 712,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Robbyant/lingbot-world"
+    },
+    {
+      "name": "zarazhangrui/frontend-slides",
+      "stars": 369,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/zarazhangrui/frontend-slides"
+    },
+    {
+      "name": "DingTalk-Real-AI/dingtalk-moltbot-connector",
+      "stars": 268,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/DingTalk-Real-AI/dingtalk-moltbot-connector"
+    },
+    {
+      "name": "Prismer-AI/Prismer",
+      "stars": 259,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Prismer-AI/Prismer"
+    },
+    {
+      "name": "QwenLM/Qwen3-ASR",
+      "stars": 176,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/QwenLM/Qwen3-ASR"
+    },
+    {
+      "name": "Madhumethra/AI-RECIPE-GENERATION",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Madhumethra/AI-RECIPE-GENERATION"
+    }
+  ]
+}
