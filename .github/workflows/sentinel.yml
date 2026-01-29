@@ -2,8 +2,9 @@ name: GitHub Sentinel (Strategy Scan)
 
 on:
   schedule:
-    - cron: '0 0,12 * * *' # 每天北京时间 08:00 和 20:00 准时巡逻
-  workflow_dispatch:      # 允许手动触发测试
+    # 每天北京时间 08:00 和 20:00 准时巡逻
+    - cron: '0 0,12 * * *' 
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -19,9 +20,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
+          # ✅ 删除了 cache: 'npm' 以解决报错
 
       - name: Install Dependencies
+        # 使用 npm install 而非 npm ci，因为目前没有 lock 文件
         run: npm install @octokit/rest --no-fund
 
       # 🎯 Phase 1: 哨兵执行侦察任务
@@ -36,6 +38,7 @@ jobs:
       - name: Checkout Central Bank
         uses: actions/checkout@v4
         with:
+          # 请确保在 git-data 的 Secrets 里配置了这两个变量
           repository: ${{ secrets.CENTRAL_BANK_REPO }}
           token: ${{ secrets.MY_PAT }}
           path: central_bank
@@ -53,7 +56,7 @@ jobs:
           git commit -m "Vault Update: GitHub Tech Sentinel $(date +%F)" || exit 0
           git push
 
-      # 🧹 Phase 3: 清理前线记录
+      # 🧹 Phase 3: 清理前线记录，保持仓库整洁
       - name: Cleanup Frontline
         run: |
           git config --global user.name 'Architect Bot'
