@@ -1,6 +1,7 @@
 {
   "name": "git-data",
   "version": "1.0.0",
+  "type": "module",  <-- 必须确保这行存在
   "description": "GitHub Sentinel Strategy Data",
   "main": "sentinel.js",
   "dependencies": {
