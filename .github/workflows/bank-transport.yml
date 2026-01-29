@@ -1,0 +1,73 @@
+name: 02. Bank Transport (Vault Archive)
+
+on:
+  workflow_run:
+    workflows: ["01. Sentinel Scout (Frontline Scan)"] # 监听侦察兵的名字
+    types:
+      - completed
+
+jobs:
+  transport_mission:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }} # 只有侦察成功才运输
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📍 Checkout Frontline (Latest Intel)
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_branch }} # 确保拉取到侦察兵刚提交的分支
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🔧 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 准备环境：只为运行搬运脚本
+      - name: 🏦 Checkout Central Bank
+        uses: actions/checkout@v4
+        with:
+          repository: wenfp108/Central-Bank
+          token: ${{ secrets.MY_PAT }} # 必须使用 PAT 访问私有央行
+          path: central_bank
+
+      # Phase 1: 执行搬运与清理逻辑
+      # 注意：你的 archive-git-to-bank.js 已经包含了物理文件搬运和源文件删除逻辑
+      - name: 🚚 Execute Archive & Purge
+        run: node scripts/archive-git-to-bank.js
+
+      # Phase 2: 资产入库 (推送到央行)
+      - name: 💰 Push to Central Bank
+        run: |
+          cd central_bank
+          git config --global user.name 'Banker Bot'
+          git config --global user.email 'banker@architect.alpha'
+          
+          if [[ -n $(git status --porcelain) ]]; then
+            git add .
+            git commit -m "Vault Deposit: Batch from ${{ github.event.workflow_run.head_commit.message }}"
+            git push
+          else
+            echo "Vault is up to date."
+          fi
+
+      # Phase 3: 清理战场 (同步前线的删除操作)
+      # 脚本已经物理删除了 data/ 下的文件，这里只需要提交这个删除状态
+      - name: 🧹 Sync Cleanup to Frontline
+        run: |
+          # 核心修复：防止中央银行文件夹被误提交到前线
+          rm -rf central_bank 
+          
+          git config --global user.name 'Cleaner Bot'
+          git config --global user.email 'cleaner@architect.alpha'
+          
+          # 提交删除操作 (git add -u 会处理被删除的文件)
+          git add -u data/
+          
+          # 只有在有东西需要清理时才提交
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Cleanup: Intel flushed to Central Bank [skip ci]"
+            git push
+          fi
