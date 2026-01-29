@@ -1,66 +1,54 @@
-name: GitHub Sentinel (Strategy Scan)
+const fs = require('fs');
+const path = require('path');
 
-on:
-  schedule:
-    # 每天北京时间 08:00 和 20:00 准时巡逻
-    - cron: '0 0,12 * * *' 
-  workflow_dispatch:
+async function archiveGitData() {
+    const today = new Date().toISOString().split('T')[0];
+    const ROOT = process.cwd();
+    const LOCAL_DATA = path.resolve(ROOT, 'data');
+    const BANK_ROOT = path.resolve(ROOT, 'central_bank');
 
-permissions:
-  contents: write
+    console.log(`📅 启动收割程序: ${today}`);
 
-jobs:
-  scout:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Frontline Repo
-        uses: actions/checkout@v4
+    // 🌟 修正：匹配你实际生成的 data/tech 路径
+    const targets = [
+        { local: 'tech', bank: 'github/tech' }
+    ];
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          # ✅ 删除了 cache: 'npm' 以解决报错
+    // 1. 搬运资产
+    targets.forEach(t => {
+        const sourcePath = path.join(LOCAL_DATA, t.local, today);
+        const targetPath = path.join(BANK_ROOT, t.bank, today);
 
-      - name: Install Dependencies
-        # 使用 npm install 而非 npm ci，因为目前没有 lock 文件
-        run: npm install @octokit/rest --no-fund
+        if (fs.existsSync(sourcePath)) {
+            const files = fs.readdirSync(sourcePath).filter(f => f.endsWith('.json'));
+            if (files.length > 0) {
+                if (!fs.existsSync(targetPath)) fs.mkdirSync(targetPath, { recursive: true });
+                files.forEach(file => {
+                    const srcFile = path.join(sourcePath, file);
+                    const destFile = path.join(targetPath, file);
+                    fs.copyFileSync(srcFile, destFile);
+                    console.log(`✅ [${t.local}] 已搬运: ${file}`);
+                });
+            }
+        }
+    });
 
-      # 🎯 Phase 1: 哨兵执行侦察任务
-      - name: 📡 Run Sentinel Scan
-        run: node sentinel.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPO_OWNER: ${{ github.repository_owner }}
-          REPO_NAME: ${{ github.event.repository.name }}
+    // 2. 强制焚毁本地空层级（只保留 data/ 下的 .git 占位符）
+    console.log("🔥 正在清理前线战场...");
+    if (fs.existsSync(LOCAL_DATA)) {
+        const items = fs.readdirSync(LOCAL_DATA);
+        items.forEach(item => {
+            if (item.startsWith('.git')) return; 
 
-      # 🏦 Phase 2: 中央银行实时收割
-      - name: Checkout Central Bank
-        uses: actions/checkout@v4
-        with:
-          # 请确保在 git-data 的 Secrets 里配置了这两个变量
-          repository: ${{ secrets.CENTRAL_BANK_REPO }}
-          token: ${{ secrets.MY_PAT }}
-          path: central_bank
+            const itemPath = path.join(LOCAL_DATA, item);
+            try {
+                fs.rmSync(itemPath, { recursive: true, force: true });
+                console.log(`🗑️ 已彻底删除: ${item}`);
+            } catch (err) {
+                console.error(`❌ 清理失败 ${item}:`, err);
+            }
+        });
+    }
+}
 
-      - name: 🏦 Archive to Central Bank
-        run: |
-          # 执行物理搬运脚本
-          node scripts/archive-git-to-bank.js
-          
-          # 提交变更至中央银行仓库
-          cd central_bank
-          git config --global user.name 'Architect Bot'
-          git config --global user.email 'bot@architect.alpha'
-          git add .
-          git commit -m "Vault Update: GitHub Tech Sentinel $(date +%F)" || exit 0
-          git push
-
-      # 🧹 Phase 3: 清理前线记录，保持仓库整洁
-      - name: Cleanup Frontline
-        run: |
-          git config --global user.name 'Architect Bot'
-          git config --global user.email 'bot@architect.alpha'
-          git add .
-          git commit -m "chore: archive cleanup [skip ci]" || exit 0
-          git push
+archiveGitData().catch(console.error);
