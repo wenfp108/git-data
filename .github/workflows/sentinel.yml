@@ -21,15 +21,23 @@ jobs:
           node-version: '20'
 
       - name: 📦 Install Dependencies
-        run: npm install @octokit/rest --no-fund
+        # ✅ 修正：同时安装 axios
+        run: npm install @octokit/rest axios --no-fund
 
-      # Phase 1: 执行侦察 (生成数据到 data/tech)
-      - name: 📡 Run Sentinel Scan
+      # Phase 1: 执行代码侦察 (GitHub)
+      - name: 📡 Run Sentinel Scan (GitHub)
         run: node sentinel.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO_OWNER: ${{ github.repository_owner }}
           REPO_NAME: ${{ github.event.repository.name }}
+
+      # Phase 1.5: 执行论文侦察 (Science Radar)
+      # ✅ 新增：执行论文扫描并注入邮箱
+      - name: 📜 Run Sentinel Scan (Science Radar)
+        run: node paper_sentinel.js
+        env:
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
 
       # Phase 2: 暂存情报 (提交到当前仓库)
       - name: 💾 Commit Intel to Frontline
@@ -37,10 +45,10 @@ jobs:
           git config --global user.name 'Sentinel Scout'
           git config --global user.email 'scout@architect.alpha'
           
-          # 检查是否有新数据生成
+          # 检查 data/ 目录下是否有任何新数据 (包含 GitHub 和 Papers)
           if [[ -n $(git status --porcelain data/) ]]; then
             git add data/
-            git commit -m "Intel: New tech signals captured [$(date +%F)]"
+            git commit -m "Intel: New signals captured [$(date +%F)]"
             git push
           else
             echo "No new intel found, skipping commit." 
