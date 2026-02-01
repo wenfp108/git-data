@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-01T20:57:53.266Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 13,
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 4,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "YougLin-dev/Aha-Loop",
+      "stars": 108,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/YougLin-dev/Aha-Loop"
+    },
+    {
+      "name": "pi0/skillman",
+      "stars": 63,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pi0/skillman"
+    },
+    {
+      "name": "vibe-music/vibe-music-web",
+      "stars": 61,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/vibe-music/vibe-music-web"
+    },
+    {
+      "name": "skavieee/FER-IT-Workplace-Emotion-Monitor",
+      "stars": 61,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/skavieee/FER-IT-Workplace-Emotion-Monitor"
+    },
+    {
+      "name": "jonathanyly/freegpt",
+      "stars": 44,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jonathanyly/freegpt"
+    }
+  ]
+}
