@@ -5,6 +5,7 @@
   "description": "GitHub Sentinel Strategy Data",
   "main": "sentinel.js",
   "dependencies": {
-    "@octokit/rest": "^20.0.0"
+    "@octokit/rest": "^20.0.0",
+    "axios": "^1.6.0"
   }
 }
