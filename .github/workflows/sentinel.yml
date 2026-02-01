@@ -2,7 +2,10 @@ name: 01. Sentinel Scout (Frontline Scan)
 
 on:
   schedule:
-    - cron: '0 0,12 * * *' # 北京时间 8:00 和 20:00
+    # ✅ 修改频率：每 6 小时触发一次
+    # 对应 UTC: 0, 6, 12, 18
+    # 对应北京时间: 8:00, 14:00, 20:00, 02:00
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
