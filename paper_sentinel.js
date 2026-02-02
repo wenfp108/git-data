@@ -5,7 +5,7 @@ import path from 'path';
 // --- 📡 前哨雷达配置 (Frontline Radar) ---
 const CONFIG = {
     // 窗口：只看最近 7 天 (保持极其敏锐)
-    LOOKBACK_DAYS: 7,
+    LOOKBACK_DAYS: 30,
     
     // 门槛 A (权威)：顶级期刊影响因子 (Nature/Science)
     MIN_IMPACT_FACTOR: 20, 
