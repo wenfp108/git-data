@@ -1,0 +1,262 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-02T19:54:26.920Z",
+    "total_captured": 16,
+    "TRENDING_DIRECTIONS": [
+      "Transformer (Heat:2165)",
+      "Security token (Heat:2165)",
+      "Process (computing) (Heat:2165)",
+      "Scale (ratio) (Heat:2165)",
+      "Voltage (Heat:2165)"
+    ],
+    "strategy_summary": {
+      "AI_CORE": 1,
+      "BIO_REVOLUTION": 11,
+      "NEXT_COMPUTING": 6
+    }
+  },
+  "items": [
+    {
+      "title": "The MVF Protocol: A Deterministic Architecture for Orchestrating and Governing Non-Deterministic Generative AI Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 2164,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2303.08774",
+      "reason": "Velocity: 2164 citations in 1 week",
+      "publication_date": "2025-12-14"
+    },
+    {
+      "title": "Engineering Non-Linear Decay Dynamics: Pulse-Level Control and Software-Defined Qubit Rescue on Superconducting Processors",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 703,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18067974",
+      "reason": "Velocity: 703 citations in 1 week",
+      "publication_date": "2025-12-27"
+    },
+    {
+      "title": "Resolution of Navier-Stokes Smoothness via Universal Boundedness: A Physical Foundation for Global Regularity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 628,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/gr-qc/9310026",
+      "reason": "Velocity: 628 citations in 1 week",
+      "publication_date": "2026-01-06"
+    },
+    {
+      "title": "Statistical Methods For Estimating Species Richness Of Woody Regeneration In Primary And Secondary Rain Forests Of Northeastern Costa Rica",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 501,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1201/9781003760474-18",
+      "reason": "Velocity: 501 citations in 1 week",
+      "publication_date": "2026-01-27"
+    },
+    {
+      "title": "Seminars in Reproductive Medicine",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Seminars in Reproductive Medicine",
+      "metrics": {
+        "citations": 230,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1055/s-00000072",
+      "reason": "Velocity: 230 citations in 1 week",
+      "publication_date": "2026-01-20"
+    },
+    {
+      "title": "Early Agriculturalist Population Diasporas? Farming, Languages, and Genes",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 166,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.4324/9781003763734-3",
+      "reason": "Velocity: 166 citations in 1 week",
+      "publication_date": "2026-01-05"
+    },
+    {
+      "title": "International practices for regenerating and restoring forest trees by seeding – an introduction",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Pathogens and Immunity",
+      "metrics": {
+        "citations": 100,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://paijournal.com/index.php/paijournal/article/download/249/188",
+      "reason": "Velocity: 100 citations in 1 week",
+      "publication_date": "2026-01-22"
+    },
+    {
+      "title": "Cyclin-dependent kinase inhibitors",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Reactions Weekly",
+      "metrics": {
+        "citations": 91,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1007/s40278-025-91549-1",
+      "reason": "Velocity: 91 citations in 1 week",
+      "publication_date": "2025-12-13"
+    },
+    {
+      "title": "Applying genetic algorithms to multi-objective land-use planning",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "OpenAIR@RGU (Robert Gordon University)",
+      "metrics": {
+        "citations": 70,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "http://hdl.handle.net/10059/65",
+      "reason": "Velocity: 70 citations in 1 week",
+      "publication_date": "2025-12-12"
+    },
+    {
+      "title": "Laboratory diagnosis of melioidosis",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PLoS neglected tropical diseases",
+      "metrics": {
+        "citations": 65,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1371/journal.pntd.0013761",
+      "reason": "Velocity: 65 citations in 1 week",
+      "publication_date": "2025-12-04"
+    },
+    {
+      "title": "Design and Evaluation of a Retrieval-Augmented Generation Architecture for OWASP Security Data",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 62,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2309.15217",
+      "reason": "Velocity: 62 citations in 1 week",
+      "publication_date": "2026-01-23"
+    },
+    {
+      "title": "MNO and Ontological Recurrence: A Non-Representational Account of Quantum Measurement and Conscious Experience",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 59,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17913823",
+      "reason": "Velocity: 59 citations in 1 week",
+      "publication_date": "2025-12-12"
+    },
+    {
+      "title": "Evaluation of work-related psychosocial and ergonomics factors in relation to low back discomfort in emergency unit nurses",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 45,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3429804",
+      "reason": "Velocity: 45 citations in 1 week",
+      "publication_date": "2026-01-06"
+    },
+    {
+      "title": "The Constructed Observer - World-Formation Beyond Representation - Why Perception Is Not Representation, but a Structural Achievement",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 40,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18006170",
+      "reason": "Velocity: 40 citations in 1 week",
+      "publication_date": "2025-12-21"
+    },
+    {
+      "title": "Entanglement-Driven Cosmological Expansion (EDCE): Paper I The Geometric Cost of Irreversibility",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17942401",
+      "reason": "Velocity: 38 citations in 1 week",
+      "publication_date": "2025-12-14"
+    },
+    {
+      "title": "HIV Molecular Immunology 2025",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.2172/3007488",
+      "reason": "Velocity: 38 citations in 1 week",
+      "publication_date": "2025-12-08"
+    }
+  ]
+}
