@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-02T14:57:15.304Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 1,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 6
+    }
+  },
+  "items": [
+    {
+      "name": "HKUDS/nanobot",
+      "stars": 666,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HKUDS/nanobot"
+    },
+    {
+      "name": "ygwyg/MAHORAGA",
+      "stars": 200,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ygwyg/MAHORAGA"
+    },
+    {
+      "name": "YougLin-dev/Aha-Loop",
+      "stars": 144,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/YougLin-dev/Aha-Loop"
+    }
+  ]
+}

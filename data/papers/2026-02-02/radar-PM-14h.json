@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-02T14:57:16.172Z",
+    "total_captured": 18,
+    "TRENDING_DIRECTIONS": [
+      "Range (aeronautics) (Heat:521)",
+      "Species richness (Heat:502)",
+      "Abundance (ecology) (Heat:502)",
+      "Vegetation (pathology) (Heat:502)",
+      "Distribution (mathematics) (Heat:502)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 8,
+      "NEXT_COMPUTING": 10,
+      "PARADIGM_SHIFT": 1,
+      "STRATEGIC_ENERGY": 4,
+      "SPACE_DEFENSE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Statistical Methods For Estimating Species Richness Of Woody Regeneration In Primary And Secondary Rain Forests Of Northeastern Costa Rica",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 501,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1201/9781003760474-18",
+      "reason": "Velocity: 501 citations in 1 week"
+    },
+    {
+      "title": "Realized range-based estimation of integrated variance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SSRN Electronic Journal",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID906491_code414727.pdf?abstractid=740288&mirid=2",
+      "reason": "Velocity: 18 citations in 1 week"
+    },
+    {
+      "title": "From the pore scale to the macroscopic scale: Equations governing multiphase fluid flow through porous media",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003762904-8",
+      "reason": "Velocity: 12 citations in 1 week"
+    },
+    {
+      "title": "A Saturated Spacetime Framework: A Conceptual Extension of General Relativity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18371346",
+      "reason": "Velocity: 12 citations in 1 week"
+    },
+    {
+      "title": "Cosmological Consequences of Bounded Curvature Spacetime",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18371540",
+      "reason": "Velocity: 10 citations in 1 week"
+    },
+    {
+      "title": "Emergence of General Relativity and Quantum Field Theory from Anisotropic Flux Suppression",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18381851",
+      "reason": "Velocity: 10 citations in 1 week"
+    },
+    {
+      "title": "Primordial Perturbations and Inflation in Bounded Curvature Spacetime",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18371596",
+      "reason": "Velocity: 8 citations in 1 week"
+    },
+    {
+      "title": "A Unified Kaluza-Klein Framework for Processing-Driven Dark Sector Dynamics and Gauge Coupling Evolution (MetaTime v35.6)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18405786",
+      "reason": "Velocity: 7 citations in 1 week"
+    },
+    {
+      "title": "Effective Perturbation Dynamics Near Curvature Saturation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18371635",
+      "reason": "Velocity: 6 citations in 1 week"
+    },
+    {
+      "title": "Advances in Nanostructured Catalysts for Urea‐Assisted Water Splitting and Zn‐Urea Batteries",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ChemSusChem",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.1002/cssc.202502504",
+      "reason": "Velocity: 4 citations in 1 week"
+    },
+    {
+      "title": "Incompatible Closure Criteria: Projection Structure and the Necessity of Duality",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18408055",
+      "reason": "Velocity: 4 citations in 1 week"
+    },
+    {
+      "title": "The Photon-Electron Coupling in Hydrogen Emission: Lyman Series as Fundamental, Bridge Crossing in Balmer Series",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18430239",
+      "reason": "Velocity: 4 citations in 1 week"
+    },
+    {
+      "title": "Molecular basis for the activation of Aurora A and Plk1 kinases during mitotic entry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The EMBO Journal",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s44318-025-00679-8",
+      "reason": "Velocity: 3 citations in 1 week"
+    },
+    {
+      "title": "Bora bridges Aurora-A activation and substrate recognition of PLK1",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "EMBO Reports",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1038/s44319-025-00687-z.pdf",
+      "reason": "Velocity: 3 citations in 1 week"
+    },
+    {
+      "title": "Long-term pull-out tests of polymergrids in sand",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003763314-14",
+      "reason": "Velocity: 3 citations in 1 week"
+    }
+  ]
+}
