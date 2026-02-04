@@ -1,0 +1,247 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-04T09:42:03.730Z",
+    "total_captured": 15,
+    "TRENDING_DIRECTIONS": [
+      "Vehicle dynamics (Heat:91)",
+      "Control (management) (Heat:83)",
+      "Control theory (sociology) (Heat:75)",
+      "Nonlinear system (Heat:62)",
+      "Gene (Heat:53)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 4,
+      "NEXT_COMPUTING": 12,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "title": "A study of active steering strategies for railway bogie",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 35,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-29",
+      "reason": "Velocity: 35 citations",
+      "publication_date": "2026-01-30"
+    },
+    {
+      "title": "Dynamic Response Analysis of Railway Passenger Car With Flexible Carbody Model Based on Semi-Active Suspensions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 30,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-79",
+      "reason": "Velocity: 30 citations",
+      "publication_date": "2026-01-30"
+    },
+    {
+      "title": "Computational Bifurcation Analysis of Mechanical Systems with Applications to Railway Vehicles",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-47",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-01-30"
+    },
+    {
+      "title": "Realized range-based estimation of integrated variance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "SSRN Electronic Journal",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID906491_code414727.pdf?abstractid=740288&mirid=2",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-01-28"
+    },
+    {
+      "title": "Non-Linear Dynamic Techniques v. Equivalent Conicity Methods For Rail Vehicle Stability Assessment",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-81",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-01-30"
+    },
+    {
+      "title": "Lateral Driving Assistance Using Robust Control and Embedded Driver-Vehicle-Road Model",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 15,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-32",
+      "reason": "Velocity: 15 citations",
+      "publication_date": "2026-01-30"
+    },
+    {
+      "title": "Pantograph-Catenary Dynamic Interaction in the Medium-High Frequency Range",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-71",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-01-30"
+    },
+    {
+      "title": "Study on Electromagnetic Damper for Automobiles with Nonlinear Damping Force Characteristics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-65",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-01-30"
+    },
+    {
+      "title": "A Unified Kaluza-Klein Framework for Processing-Driven Dark Sector Dynamics and Gauge Coupling Evolution (MetaTime v35.6)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18405786",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-01-28"
+    },
+    {
+      "title": "Simulation of a Railway Vehicle's Running Behaviour: How Elastic Wheelsets Influence the Simulation Results",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-25",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-01-30"
+    },
+    {
+      "title": "Emergence of General Relativity and Quantum Field Theory from Anisotropic Flux Suppression",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18381851",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-01-28"
+    },
+    {
+      "title": "Estimation of Tire Grip Margin Using Electric Power Steering System",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-43",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-01-30"
+    },
+    {
+      "title": "Analytical study on effects of form in transition curve",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-67",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-01-30"
+    },
+    {
+      "title": "Research on high curving performance trucks - concept and basic characteristics of active-bogie-steering truck -",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-4",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-01-30"
+    },
+    {
+      "title": "Fatigue relevant road surface statistics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003760825-74",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-01-30"
+    }
+  ]
+}

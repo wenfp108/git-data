@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-04T09:42:03.139Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 6,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "antirez/tgterm",
+      "stars": 102,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/antirez/tgterm"
+    }
+  ]
+}
