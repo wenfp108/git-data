@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-05T03:37:02.750Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 2,
+      "VIRAL_UNCATEGORIZED": 21,
+      "CORE_PRAGMATISM": 1,
+      "TALENT_GROWTH": 1,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "Haleclipse/CodexDesktop-Rebuild",
+      "stars": 259,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Haleclipse/CodexDesktop-Rebuild"
+    },
+    {
+      "name": "BlockRunAI/ClawRouter",
+      "stars": 195,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BlockRunAI/ClawRouter"
+    },
+    {
+      "name": "antirez/tgterm",
+      "stars": 144,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/antirez/tgterm"
+    },
+    {
+      "name": "alibaba/landmark-tokenized-dit",
+      "stars": 58,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alibaba/landmark-tokenized-dit"
+    }
+  ]
+}
