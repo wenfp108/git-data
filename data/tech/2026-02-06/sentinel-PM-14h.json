@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-06T14:47:00.065Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 12,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "foru17/clash-master",
+      "stars": 230,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/foru17/clash-master"
+    },
+    {
+      "name": "antirez/voxtral.c",
+      "stars": 143,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/antirez/voxtral.c"
+    },
+    {
+      "name": "mobvoi/CBbot",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mobvoi/CBbot"
+    }
+  ]
+}
