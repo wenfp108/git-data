@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-08T02:28:30.971Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 8,
+      "TECH_ACCELERATOR": 4,
+      "TALENT_GROWTH": 3,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "jiweiyeah/Skills-Manager",
+      "stars": 131,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jiweiyeah/Skills-Manager"
+    },
+    {
+      "name": "sseanliu/VisionClaw",
+      "stars": 127,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sseanliu/VisionClaw"
+    },
+    {
+      "name": "mqudsi/monospace-ocr",
+      "stars": 50,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mqudsi/monospace-ocr"
+    },
+    {
+      "name": "Soul-AILab/SoulX-Singer",
+      "stars": 42,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Soul-AILab/SoulX-Singer"
+    }
+  ]
+}
