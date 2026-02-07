@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-07T20:38:00.618Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 6,
+      "TECH_ACCELERATOR": 3,
+      "TALENT_GROWTH": 3
+    }
+  },
+  "items": [
+    {
+      "name": "jiweiyeah/Skills-Manager",
+      "stars": 86,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jiweiyeah/Skills-Manager"
+    },
+    {
+      "name": "sseanliu/VisionClaw",
+      "stars": 74,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sseanliu/VisionClaw"
+    },
+    {
+      "name": "mqudsi/monospace-ocr",
+      "stars": 43,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mqudsi/monospace-ocr"
+    }
+  ]
+}

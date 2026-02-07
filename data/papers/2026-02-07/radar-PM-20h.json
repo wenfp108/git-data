@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-07T20:38:01.320Z",
+    "total_captured": 20,
+    "TRENDING_DIRECTIONS": [
+      "Panicum miliaceum (Heat:23)",
+      "Vegetation (pathology) (Heat:23)",
+      "Deciduous (Heat:23)",
+      "Agriculture (Heat:23)",
+      "Flora (microbiology) (Heat:23)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 8,
+      "NEXT_COMPUTING": 9,
+      "STRATEGIC_ENERGY": 4,
+      "AI_CORE": 2,
+      "PARADIGM_SHIFT": 2,
+      "SPACE_DEFENSE": 2
+    }
+  },
+  "items": [
+    {
+      "title": "Tumour–brain crosstalk restrains cancer immunity via a sensory–sympathetic axis",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 2,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41586-025-10028-8",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-02-04"
+    },
+    {
+      "title": "Plant Husbandry and Vegetation of Tell Gomolava, Vojvodina, Yugoslavia",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 22,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1201/9781003762522-4",
+      "reason": "Velocity: 22 citations",
+      "publication_date": "2026-02-02"
+    },
+    {
+      "title": "Paleoclimats De L'ile De Fuerteventura (Archipel Canarien)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "http://hdl.handle.net/10553/19910",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-02-03"
+    },
+    {
+      "title": "The Hydrogen Bond",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18432340",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-01-31"
+    },
+    {
+      "title": "The Middle-Stack Hypothesis: A Bayesian Argument Against Cosmological Exceptionalism",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18465873",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-02-03"
+    },
+    {
+      "title": "Double soft current at one-loop in QCD",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of High Energy Physics",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1007/jhep02(2026)018",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-02-02"
+    },
+    {
+      "title": "The Bootstrap Hydrogen Spectrum: Fine Structure Encoded in Gross Structure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 4,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18456171",
+      "reason": "Velocity: 4 citations",
+      "publication_date": "2026-02-02"
+    },
+    {
+      "title": "Emotion as a Control Signal for Symbolic Stability",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18446434",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-02-01"
+    },
+    {
+      "title": "MMLU and Cognitive Integrity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18464000",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-02-03"
+    },
+    {
+      "title": "NeuN expression in health and disease: A histological perspective on neuronal heterogeneity.",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PubMed",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.14670/hh-18-965",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-02-01"
+    },
+    {
+      "title": "Glass-Like Heat Conduction in Crystalline Semiconductors",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://www.osti.gov/biblio/771518",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-02-02"
+    },
+    {
+      "title": "Auxiliary Model Hierarchical Generalized Extended Recursive Parameter Estimation for Autoregressive Output‐Error Autoregressive Moving Average Systems",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Optimal Control Applications and Methods",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1002/oca.70068",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-02-02"
+    },
+    {
+      "title": "Regulatory Intelligence in Finance",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 3,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18446550",
+      "reason": "Velocity: 3 citations",
+      "publication_date": "2026-02-01"
+    },
+    {
+      "title": "Atomic Orbitals as Icosahedral Interference Patterns",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 2,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18444047",
+      "reason": "Velocity: 2 citations",
+      "publication_date": "2026-01-31"
+    },
+    {
+      "title": "The Photon Coupling Formula: Icosahedral Geometry in QED and Mass Ratios",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 2,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18456656",
+      "reason": "Velocity: 2 citations",
+      "publication_date": "2026-02-02"
+    },
+    {
+      "title": "Identification of a potent V3 glycan site broadly neutralizing antibody targeting an N332gp120 glycan-independent epitope",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Immunology",
+      "metrics": {
+        "citations": 2,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.1038/s41590-025-02385-3",
+      "reason": "Velocity: 2 citations",
+      "publication_date": "2026-02-03"
+    },
+    {
+      "title": "Projection Principle for Flavor from Division-Algebra Towers (Corner Selection and Tilts)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 2,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18476058",
+      "reason": "Velocity: 2 citations",
+      "publication_date": "2026-02-04"
+    },
+    {
+      "title": "CGS Paper 2 – Human-Centered Logistics in Healthcare The Missing Dimension in an Era of Digital Optimization",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 2,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18448110",
+      "reason": "Velocity: 2 citations",
+      "publication_date": "2026-02-01"
+    },
+    {
+      "title": "Bias-Free Optical Isolation from Polarization Chirality in QMU: A Loxodromic Sign Ledger for Polarization Technology",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 2,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18451113",
+      "reason": "Velocity: 2 citations",
+      "publication_date": "2026-02-01"
+    },
+    {
+      "title": "Bootstrap Recombination: Icosahedral Invariants in the Hydrogen Spectrum",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 2,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE",
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18457276",
+      "reason": "Velocity: 2 citations",
+      "publication_date": "2026-02-02"
+    }
+  ]
+}
