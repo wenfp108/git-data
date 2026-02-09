@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-09T14:59:19.840Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "CAREER_MOVES": 1,
+      "VIRAL_GIANT": 1,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 7,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "rohunvora/x-research-skill",
+      "stars": 341,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rohunvora/x-research-skill"
+    },
+    {
+      "name": "f/textream",
+      "stars": 329,
+      "tags": [
+        "CAREER_MOVES",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/f/textream"
+    },
+    {
+      "name": "TheAgentContextLab/OneContext",
+      "stars": 313,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TheAgentContextLab/OneContext"
+    },
+    {
+      "name": "wbenny/scfw",
+      "stars": 61,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/wbenny/scfw"
+    }
+  ]
+}
