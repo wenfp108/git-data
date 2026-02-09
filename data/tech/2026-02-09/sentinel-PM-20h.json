@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-09T20:58:26.744Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "CAREER_MOVES": 1,
+      "VIRAL_GIANT": 4,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 11,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "TheAgentContextLab/OneContext",
+      "stars": 443,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TheAgentContextLab/OneContext"
+    },
+    {
+      "name": "f/textream",
+      "stars": 412,
+      "tags": [
+        "CAREER_MOVES",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/f/textream"
+    },
+    {
+      "name": "rohunvora/x-research-skill",
+      "stars": 402,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rohunvora/x-research-skill"
+    },
+    {
+      "name": "hesamsheikh/awesome-openclaw-usecases",
+      "stars": 364,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases"
+    },
+    {
+      "name": "lijigang/ljg-skill-xray-paper",
+      "stars": 237,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lijigang/ljg-skill-xray-paper"
+    },
+    {
+      "name": "jlia0/tinyclaw",
+      "stars": 219,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jlia0/tinyclaw"
+    },
+    {
+      "name": "wbenny/scfw",
+      "stars": 69,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/wbenny/scfw"
+    }
+  ]
+}
