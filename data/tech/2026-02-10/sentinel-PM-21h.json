@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-10T21:02:42.503Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 13,
+      "TECH_ACCELERATOR": 4,
+      "CODE_LEVERAGE": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "jlia0/tinyclaw",
+      "stars": 523,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jlia0/tinyclaw"
+    },
+    {
+      "name": "MemeCalculate/moyin-creator",
+      "stars": 249,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MemeCalculate/moyin-creator"
+    },
+    {
+      "name": "alibaba-damo-academy/RynnBrain",
+      "stars": 124,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alibaba-damo-academy/RynnBrain"
+    },
+    {
+      "name": "win4r/team-tasks",
+      "stars": 77,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/win4r/team-tasks"
+    },
+    {
+      "name": "Renforce-Dynamics/MultiModalWBC",
+      "stars": 72,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Renforce-Dynamics/MultiModalWBC"
+    },
+    {
+      "name": "Tenobrus/claude-rlm",
+      "stars": 41,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Tenobrus/claude-rlm"
+    },
+    {
+      "name": "Zephkek/XStoreUnlocker",
+      "stars": 41,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Zephkek/XStoreUnlocker"
+    },
+    {
+      "name": "hallucinogen/agent-viewer",
+      "stars": 41,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hallucinogen/agent-viewer"
+    }
+  ]
+}
