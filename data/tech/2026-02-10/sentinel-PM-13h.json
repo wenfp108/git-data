@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-10T13:48:51.162Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 11,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "jlia0/tinyclaw",
+      "stars": 448,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jlia0/tinyclaw"
+    },
+    {
+      "name": "MemeCalculate/moyin-creator",
+      "stars": 219,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MemeCalculate/moyin-creator"
+    },
+    {
+      "name": "alibaba-damo-academy/RynnBrain",
+      "stars": 43,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alibaba-damo-academy/RynnBrain"
+    }
+  ]
+}
