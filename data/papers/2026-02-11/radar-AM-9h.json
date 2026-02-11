@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-11T09:56:22.489Z",
+    "total_captured": 9,
+    "TRENDING_DIRECTIONS": [
+      "Permissive (Heat:29)",
+      "Social anxiety (Heat:29)",
+      "Self-esteem (Heat:29)",
+      "Anxiety (Heat:29)",
+      "Style (visual arts) (Heat:29)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 4,
+      "NEXT_COMPUTING": 5,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "title": "The Relation between Self-esteem, Parenting Style and Social Anxiety in Girls",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18529741",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-02-09"
+    },
+    {
+      "title": "Influence of steel fibers on full-scale RC beams under shear loading",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003759768-34",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-02-04"
+    },
+    {
+      "title": "FBG-1 is a measurement-first morphology filter derived from iterative stability logic (Mandelbrot-style boundedness) and expressed as a finite shape grammar. It collapses infinite geometric possibilities into a small set of survivable primitives—nodes, filaments, branches, spirals, and nested copies—plus assembly rules that concentrate adaptation at boundaries while preserving calm interiors. The framework is used to guide design choices in boundary-dominant systems (e.g., passive fluid interfaces, modular habitat scaffolds, and adaptive infrastructure), where robustness depends on phase coherence under repeated forcing rather than on static optimal forms. Keywords Fractals; Mandelbrot set; morphology; shape grammar; boundary dynamics; resonance; iterative stability; scale invariance; phase coherence; attractors; self-organization; modular design; passive fluidics; ecological engineering; BioReef.",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18488039",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-02-04"
+    },
+    {
+      "title": "Long-term properties of bond between concrete and FRP",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003759751-78",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-02-04"
+    },
+    {
+      "title": "Bootstrap Dark Matter: Kuramoto Synchronisation on the Icosahedral Lattic",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18355900",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-02-06"
+    },
+    {
+      "title": "Asymmetric Causation and Neutral Relata: A Dual-Primitive Ontology for Physics and Consciousness",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18402408",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-02-05"
+    },
+    {
+      "title": "FaceForge: A Deep Learning Framework for Facial Manipulation Generation and Detection",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://arxiv.org/pdf/2010.00133",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-02-09"
+    },
+    {
+      "title": "Don’t count me out: erasure of ethnicity and ethnic groups from national censuses",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Ethnic and Migration Studies",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1080/1369183x.2025.2595815",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-02-09"
+    },
+    {
+      "title": "Bootstrap Universe: Paper Catalogue v35 — 79 Papers Deriving Physical Reality from Pure Mathematics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.17906573",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-02-09"
+    }
+  ]
+}

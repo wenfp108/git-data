@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-11T09:56:21.713Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 8
+    }
+  },
+  "items": [
+    {
+      "name": "aeromomo/claw-compactor",
+      "stars": 205,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aeromomo/claw-compactor"
+    }
+  ]
+}
