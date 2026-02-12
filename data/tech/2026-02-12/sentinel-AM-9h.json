@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-12T09:49:34.967Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 3,
+      "TALENT_GROWTH": 1,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "xyzeva/k-id-age-verifier",
+      "stars": 233,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xyzeva/k-id-age-verifier"
+    },
+    {
+      "name": "sharbelxyz/x-bookmarks",
+      "stars": 74,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sharbelxyz/x-bookmarks"
+    }
+  ]
+}
