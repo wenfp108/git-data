@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-14T02:40:19.090Z",
+    "session": "AM",
+    "trend_summary": {
+      "CAREER_MOVES": 1,
+      "VIRAL_GIANT": 2,
+      "TECH_ACCELERATOR": 5,
+      "VIRAL_UNCATEGORIZED": 18,
+      "CODE_LEVERAGE": 3,
+      "CORE_PRAGMATISM": 1,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "devops-interviews/devops-interviews",
+      "stars": 319,
+      "tags": [
+        "CAREER_MOVES",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/devops-interviews/devops-interviews"
+    },
+    {
+      "name": "freestylefly/openclaw-wechat",
+      "stars": 217,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/freestylefly/openclaw-wechat"
+    },
+    {
+      "name": "antirez/qwen-asr",
+      "stars": 205,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/antirez/qwen-asr"
+    },
+    {
+      "name": "milanm/AutoGrad-Engine",
+      "stars": 145,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/milanm/AutoGrad-Engine"
+    },
+    {
+      "name": "MooseGoose0701/skill-compose",
+      "stars": 135,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MooseGoose0701/skill-compose"
+    },
+    {
+      "name": "symbolica-ai/arcgentica",
+      "stars": 110,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/symbolica-ai/arcgentica"
+    },
+    {
+      "name": "calebwin/pgclaw",
+      "stars": 108,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/calebwin/pgclaw"
+    },
+    {
+      "name": "requestsession/IndexGPT",
+      "stars": 103,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/requestsession/IndexGPT"
+    },
+    {
+      "name": "AM1403x/financial-agent-india",
+      "stars": 83,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AM1403x/financial-agent-india"
+    },
+    {
+      "name": "Kalida-1/DirectX-Visual-Runtime-AIO-2026",
+      "stars": 65,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Kalida-1/DirectX-Visual-Runtime-AIO-2026"
+    },
+    {
+      "name": "aidatatools/quant-python-ai",
+      "stars": 50,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aidatatools/quant-python-ai"
+    }
+  ]
+}
