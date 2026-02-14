@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-14T14:38:16.923Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 9,
+      "TALENT_GROWTH": 1,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "SamuelQZQ/auto-coding-agent-demo",
+      "stars": 60,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SamuelQZQ/auto-coding-agent-demo"
+    }
+  ]
+}
