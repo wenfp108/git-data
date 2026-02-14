@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-15T02:27:57.760Z",
+    "total_captured": 7,
+    "TRENDING_DIRECTIONS": [
+      "Tomography (Heat:40)",
+      "Synchronization (alternating current) (Heat:37)",
+      "Permissive (Heat:29)",
+      "Social anxiety (Heat:29)",
+      "Self-esteem (Heat:29)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 3,
+      "NEXT_COMPUTING": 2,
+      "AI_CORE": 2,
+      "STRATEGIC_ENERGY": 1
+    }
+  },
+  "items": [
+    {
+      "title": "X-ray computerized tomography: Determination of heterogeneities in rock samples",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 39,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1201/9781003761389-24",
+      "reason": "Velocity: 39 citations",
+      "publication_date": "2026-02-12"
+    },
+    {
+      "title": "The Relation between Self-esteem, Parenting Style and Social Anxiety in Girls",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18529741",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-02-09"
+    },
+    {
+      "title": "Predictive Rendezvous: Time--Intent--Deterministic Peer Coordination Without Infrastructure",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 26,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18528430",
+      "reason": "Velocity: 26 citations",
+      "publication_date": "2026-02-08"
+    },
+    {
+      "title": "Tunnelling performance estimation based on drillability testing",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1201/9781003761389-28",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-02-12"
+    },
+    {
+      "title": "Generalist foundation models from a multimodal dataset for 3D computed tomography",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Biomedical Engineering",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2403.17834",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-02-12"
+    },
+    {
+      "title": "Bearing mechanism of steel grid reinforcement in pullout test",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.1201/9781003760931-20",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-02-12"
+    },
+    {
+      "title": "Model for situated multi-agent systems with regional synchronization",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.1201/9781003762614-27",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-02-11"
+    }
+  ]
+}

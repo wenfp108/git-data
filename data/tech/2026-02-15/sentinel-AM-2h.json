@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-15T02:27:57.015Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "TALENT_GROWTH": 2,
+      "VIRAL_UNCATEGORIZED": 14,
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "theonlyhennygod/zeroclaw",
+      "stars": 576,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/theonlyhennygod/zeroclaw"
+    },
+    {
+      "name": "mickamy/sql-tap",
+      "stars": 505,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mickamy/sql-tap"
+    },
+    {
+      "name": "HKUDS/FastCode",
+      "stars": 322,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HKUDS/FastCode"
+    },
+    {
+      "name": "vigorX777/ai-daily-digest",
+      "stars": 231,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vigorX777/ai-daily-digest"
+    },
+    {
+      "name": "SamuelQZQ/auto-coding-agent-demo",
+      "stars": 115,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SamuelQZQ/auto-coding-agent-demo"
+    },
+    {
+      "name": "dev-protocol/polymarket-trading-tools-telegram-bot",
+      "stars": 95,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot"
+    },
+    {
+      "name": "datavorous/sameshi",
+      "stars": 63,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/datavorous/sameshi"
+    }
+  ]
+}
