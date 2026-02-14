@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-14T20:37:07.168Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 10,
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "mickamy/sql-tap",
+      "stars": 341,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mickamy/sql-tap"
+    },
+    {
+      "name": "HKUDS/FastCode",
+      "stars": 223,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HKUDS/FastCode"
+    },
+    {
+      "name": "SamuelQZQ/auto-coding-agent-demo",
+      "stars": 88,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SamuelQZQ/auto-coding-agent-demo"
+    }
+  ]
+}
