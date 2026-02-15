@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-15T09:51:30.912Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "TALENT_GROWTH": 1,
+      "VIRAL_UNCATEGORIZED": 10,
+      "TECH_ACCELERATOR": 1,
+      "CORE_PRAGMATISM": 2
+    }
+  },
+  "items": [
+    {
+      "name": "mickamy/sql-tap",
+      "stars": 576,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mickamy/sql-tap"
+    },
+    {
+      "name": "vigorX777/ai-daily-digest",
+      "stars": 360,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vigorX777/ai-daily-digest"
+    },
+    {
+      "name": "dev-protocol/polymarket-trading-tools-telegram-bot",
+      "stars": 153,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dev-protocol/polymarket-trading-tools-telegram-bot"
+    },
+    {
+      "name": "datavorous/sameshi",
+      "stars": 102,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/datavorous/sameshi"
+    },
+    {
+      "name": "Monstatek/M1",
+      "stars": 41,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Monstatek/M1"
+    }
+  ]
+}
