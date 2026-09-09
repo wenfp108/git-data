@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-09T18:37:35.839Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "TALENT_GROWTH": 1,
+      "CODE_LEVERAGE": 3,
+      "VIRAL_UNCATEGORIZED": 16,
+      "KNOWLEDGE_BASE": 3
+    }
+  },
+  "items": [
+    {
+      "name": "openai/NavierStokesAndEuler",
+      "stars": 1305,
+      "full_text": "Lean certificates accompanying Navier-Stokes and Euler results",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/openai/NavierStokesAndEuler"
+    },
+    {
+      "name": "gazijarin/itsgiving",
+      "stars": 398,
+      "full_text": "Express yourself in meetings (with memes, of course).",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/gazijarin/itsgiving"
+    },
+    {
+      "name": "henryzawadzki6542/cloudflare-turnstile-bypass",
+      "stars": 367,
+      "full_text": "Work with Cloudflare Turnstile in Python: find the sitekey, get a valid cf-turnstile-response token in seconds. Dependency-free library + CLI, built for CI and automation.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/henryzawadzki6542/cloudflare-turnstile-bypass"
+    },
+    {
+      "name": "tristanbuckmaster/fluid_lean",
+      "stars": 215,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tristanbuckmaster/fluid_lean"
+    },
+    {
+      "name": "com-phantom/Phantom-Wallet-Desktop",
+      "stars": 208,
+      "full_text": "Phantom Wallet Desktop app for Windows, macOS and Linux. A lightweight desktop client that brings Phantom crypto wallet experience outside the browser with native desktop access.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/com-phantom/Phantom-Wallet-Desktop"
+    },
+    {
+      "name": "daishuge/pcb-skill",
+      "stars": 92,
+      "full_text": "Agent skill for taking a hardware idea to a manufacturable PCB: concept, schematic, sourcing, layout, routing, verification, and a purchase staged to the pre-payment page. Drives EasyEDA Pro over MCP from Claude Code or Codex.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/daishuge/pcb-skill"
+    },
+    {
+      "name": "Turbo1123/Turbo-IO",
+      "stars": 48,
+      "full_text": "雷鸟 iO / RayNeo iO 非官方 SDK 与 iOS 客户端：非商业学习研究，语音 AI、录音、自定义通知、Codex 与 Web 显示预览。BES2800 轻量眼镜，Android 待开发。",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Turbo1123/Turbo-IO"
+    }
+  ]
+}
