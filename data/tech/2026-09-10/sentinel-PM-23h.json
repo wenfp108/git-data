@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-10T23:41:53.512Z",
+    "session": "PM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 22,
+      "KNOWLEDGE_BASE": 2,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "yureii1996/cek-probe-model",
+      "stars": 354,
+      "full_text": "Untuk cek model apakah maskingan atau bukan",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yureii1996/cek-probe-model"
+    },
+    {
+      "name": "yudaprasetya007/routeVSCODE",
+      "stars": 326,
+      "full_text": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yudaprasetya007/routeVSCODE"
+    },
+    {
+      "name": "mizzlelover/gongwen-gbt9704-skill",
+      "stars": 239,
+      "full_text": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mizzlelover/gongwen-gbt9704-skill"
+    },
+    {
+      "name": "deepseek-ai/DeepSelect",
+      "stars": 208,
+      "full_text": "DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deepseek-ai/DeepSelect"
+    },
+    {
+      "name": "viettranx/3dviz-pro-max",
+      "stars": 121,
+      "full_text": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/viettranx/3dviz-pro-max"
+    },
+    {
+      "name": "ngocdaobao/A-Survey-on-Looped-Transformers",
+      "stars": 87,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ngocdaobao/A-Survey-on-Looped-Transformers"
+    }
+  ]
+}
